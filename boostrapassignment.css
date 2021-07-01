@@ -1,0 +1,19 @@
+.col a {
+color:purple;
+font-family: 'Roboto', sans-serif;
+}
+
+.page-header {
+text-align: center;
+}
+
+.text-center {
+
+font-size: 18px;
+}
+
+.navbar-brand{
+
+font-size: 18px;
+text-align: center;
+}
